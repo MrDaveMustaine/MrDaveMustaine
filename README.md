@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrDaveMustaine
+- 👋 Hi, I’m @MrDaveMustaine (Marios Tziritas)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me https://www.linkedin.com/in/marios-tziritas/
